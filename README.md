@@ -56,3 +56,7 @@
 </div>
 
 ###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/tejasv-tagline/tejasv-tagline/output/github-contribution-grid-snake.svg" width="20px" alt="Snake animation" />
