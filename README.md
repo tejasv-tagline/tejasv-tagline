@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Tejas Variya and I'm an Angular Developer, from Tagline Infotech LLP</h2>
+<h2 align="left">Hi 👋! My name is Tejas and I'm an Angular Developer, from Tagline Infotech LLP</h2>
 
 ###
 
